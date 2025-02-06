@@ -4,7 +4,7 @@
 //    Считает сумму всех элементов.
 //    Выводит массив и сумму.
 
-package Lesson4Arrays;
+package Сore.Lesson4Arrays;
 
 import java.util.Random;
 

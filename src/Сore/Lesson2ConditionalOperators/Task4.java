@@ -3,7 +3,7 @@
 //70-89 — "Хорошо"
 //50-69 — "Удовлетворительно"
 //Ниже 50 — "Неудовлетворительно"
-package Lesson2ConditionalOperators;
+package Сore.Lesson2ConditionalOperators;
 
 import java.util.Scanner;
 

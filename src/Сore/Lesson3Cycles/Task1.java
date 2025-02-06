@@ -1,6 +1,6 @@
 //Напиши программу, которая с помощью цикла for выводит все числа от 1 до 100
 
-package Lesson3Cycles;
+package Сore.Lesson3Cycles;
 
 public class Task1
 {

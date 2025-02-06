@@ -1,6 +1,6 @@
 //Напиши программу, которая принимает два числа и выводит большее из них. Если числа равны, вывести "Числа равны".
 
-package Lesson2ConditionalOperators;
+package Сore.Lesson2ConditionalOperators;
 
 import java.util.Scanner;
 

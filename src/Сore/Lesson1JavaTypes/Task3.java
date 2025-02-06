@@ -1,6 +1,6 @@
 //Напиши программу, которая принимает символ с клавиатуры и выводит его ASCII-код.
 
-package Lesson1JavaTypes;
+package Сore.Lesson1JavaTypes;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@
 //    Находит максимальный и минимальный элементы.
 //    Выводит массив, минимальное и максимальное значения.
 
-package Lesson4Arrays;
+package Сore.Lesson4Arrays;
 
 import java.util.Random;
 

@@ -1,6 +1,6 @@
 //Напиши программу, которая проверяет, является ли введенное число четным или нечетным. Используй оператор if-else.
 
-package Lesson2ConditionalOperators;
+package Сore.Lesson2ConditionalOperators;
 
 import java.util.Scanner;
 

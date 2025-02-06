@@ -1,6 +1,6 @@
 //Напиши программу, которая запрашивает у пользователя число N и с помощью цикла for вычисляет его факториал.
 
-package Lesson3Cycles;
+package Сore.Lesson3Cycles;
 
 import java.util.Scanner;
 

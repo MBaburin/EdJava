@@ -1,6 +1,6 @@
 ///Напиши программу, которая с помощью цикла for выводит чётные числа от 1 до 100
 
-package Lesson3Cycles;
+package Сore.Lesson3Cycles;
 
 public class Task2 {
     public static void main(String[] args){

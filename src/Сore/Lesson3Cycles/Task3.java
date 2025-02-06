@@ -1,6 +1,6 @@
 //Напиши программу, которая запрашивает у пользователя число N и с помощью цикла for находит сумму всех чисел от 1 до N.
 
-package Lesson3Cycles;
+package Сore.Lesson3Cycles;
 
 import java.util.Scanner;
 

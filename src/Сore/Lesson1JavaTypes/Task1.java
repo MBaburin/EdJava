@@ -1,4 +1,4 @@
-package Lesson1JavaTypes;
+package Сore.Lesson1JavaTypes;
 public class Task1 {
     public static void main(String[] args) {
         int a = 2;

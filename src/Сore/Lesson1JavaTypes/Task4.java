@@ -1,7 +1,5 @@
 //Напиши программу, которая берет два числа типа double, преобразует их в int, и выводит результат их сложения.
-package Lesson1JavaTypes;
-
-import java.util.Scanner;
+package Сore.Lesson1JavaTypes;
 
 public class Task4 {
     public static void main(String[] args) {

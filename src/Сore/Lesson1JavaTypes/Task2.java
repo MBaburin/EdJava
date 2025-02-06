@@ -3,7 +3,7 @@
 //Используй значение числа π как 3.14159.
 
 
-package Lesson1JavaTypes;
+package Сore.Lesson1JavaTypes;
 
 public class Task2 {
         public static void main(String[] args) {

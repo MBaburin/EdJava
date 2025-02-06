@@ -1,5 +1,5 @@
 //Напиши программу, которая проверяет, является ли введенный год високосным. Високосный год — это год, который делится на 4, но не делится на 100, если только он не делится на 400.
-package Lesson2ConditionalOperators;
+package Сore.Lesson2ConditionalOperators;
 
 import java.util.Scanner;
 
